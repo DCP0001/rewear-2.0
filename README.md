@@ -74,12 +74,17 @@ use light theme for better view
 
 ## Team details
 
-Team leader
+Team leader:
+
 dhruv c. patel
-Team member 1
+
+Team member 1:
+
 abhi p. jesani
-Team member 2 
-Deep p. chaudhary 
+
+Team member 2:
+
+Deep a. chaudhary 
 
 ## Team leader's Email
 dhruv.c.patel1312@gmail.com
