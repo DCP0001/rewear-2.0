@@ -174,7 +174,7 @@ export default function DashboardPage() {
       <div className="container mx-auto px-4 py-8">
         {/* Welcome Section */}
         <div className="mb-8">
-          <h1 className="text-3xl font-bold text-gray-800 dark:text-white mb-2">Welcome back, Jane!</h1>
+          <h1 className="text-3xl font-bold text-gray-800 dark:text-white mb-2">Welcome back, Abhi!</h1>
           <p className="text-gray-600 dark:text-gray-300">Here's what's happening with your sustainable wardrobe</p>
         </div>
 

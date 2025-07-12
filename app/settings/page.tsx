@@ -100,7 +100,7 @@ export default function SettingsPage() {
                 <div className="relative">
                   <Avatar className="w-20 h-20">
                     <AvatarImage src="/placeholder.svg?height=80&width=80" />
-                    <AvatarFallback>JD</AvatarFallback>
+                    <AvatarFallback>AB</AvatarFallback>
                   </Avatar>
                   <Button
                     size="sm"
@@ -110,7 +110,7 @@ export default function SettingsPage() {
                   </Button>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-lg font-semibold text-gray-800 dark:text-white">Jordan Davis</h3>
+                  <h3 className="text-lg font-semibold text-gray-800 dark:text-white">Abhi Jesani</h3>
                   <p className="text-gray-600 dark:text-gray-300">Member since January 2024</p>
                   <div className="flex gap-2 mt-2">
                     <Badge className="bg-green-100 text-green-700 dark:bg-green-900 dark:text-green-300">
