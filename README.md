@@ -72,3 +72,19 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 use light theme for better view
 
+## Team details
+
+Team leader
+dhruv c. patel
+Team member 1
+abhi p. jesani
+Team member 2 
+Deep p. chaudhary 
+
+## Team leader's Email
+dhruv.c.patel1312@gmail.com
+
+## Project Statement 
+
+ReWear – Community Clothing Exchange
+
