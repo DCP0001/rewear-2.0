@@ -68,7 +68,7 @@ ReWear is a sustainable fashion platform that enables users to exchange clothing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements and bug fixes.
 
-#Recomendation
+## Recomendation
 
 use light theme for better view
 
