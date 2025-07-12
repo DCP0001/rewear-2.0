@@ -128,7 +128,7 @@ export default function SettingsPage() {
                   </Label>
                   <Input
                     id="firstName"
-                    defaultValue="Jordan"
+                    defaultValue="Abhi"
                     className="mt-1 dark:bg-gray-700 dark:border-gray-600 dark:text-white"
                   />
                 </div>
@@ -138,7 +138,7 @@ export default function SettingsPage() {
                   </Label>
                   <Input
                     id="lastName"
-                    defaultValue="Davis"
+                    defaultValue="jesani"
                     className="mt-1 dark:bg-gray-700 dark:border-gray-600 dark:text-white"
                   />
                 </div>
@@ -151,7 +151,7 @@ export default function SettingsPage() {
                 <Input
                   id="email"
                   type="email"
-                  defaultValue="jordan.davis@example.com"
+                  defaultValue="abhijesani@example.com"
                   className="mt-1 dark:bg-gray-700 dark:border-gray-600 dark:text-white"
                 />
               </div>
@@ -177,7 +177,7 @@ export default function SettingsPage() {
                     <MapPin className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" />
                     <Input
                       id="location"
-                      defaultValue="San Francisco, CA"
+                      defaultValue="Surat, India"
                       className="pl-10 dark:bg-gray-700 dark:border-gray-600 dark:text-white"
                     />
                   </div>
